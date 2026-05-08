@@ -1,5 +1,5 @@
 # microscope-image-analysis-pipeline
-A pipeline to estimate proportion of cell death in fluorescence microscopy images. Code is written in Python for Jupyter Notebook, and uses FIJI to open .lof files in a readble format.
+A pipeline to estimate proportion of cell death in fluorescence microscopy images. Code is written in Python for Jupyter Notebook, and uses FIJI macros to open .lof files in a readble format. 
 
 Conda activate mica_env before opening Jupyter!
 Run rename_files.ipynb  and move_lofs.ipnyb (if necessary) before running the main pipeline script
