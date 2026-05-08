@@ -20,7 +20,7 @@ It's worth scrolling through all the images once image processing is done, as im
 It won’t be able to open any images without 3 channels, so make sure you go through your data beforehand to ensure no brightfield-only images sneak in. it also can’t open the unmerged images if when you open them in FIJI it’s an image that opens as several tiles (it can handle smaller image planes though, just the tiles need to be separated to different .lof files). 
 
 ### FIJI macros: 
-All these codes are written in the imageJ macro language. A guide to the language and its built in commands can be found [here](https://imagej.net/ij/developer/macro/macros.html)
+All these codes are written in the imageJ macro language. A guide to the language and its built in commands can be found [here](https://imagej.net/ij/developer/macro/macros.html).
 
 ### called in code:
 By and large don’t touch these much, however there are a few inputs you need to know about. 
